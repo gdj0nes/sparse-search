@@ -43,13 +43,9 @@ bm25 = BM25(tokenizer=tokenizer)
 bm25.fit(corpus['text'])
 ```
 
-### Hybrid Lexical + Semantic Text Search
+## Hybrid Lexical + Semantic Text Search
 
 Hybrid search combines dense and sparse vector search techniques.
-
-## Hybrid Semantic-Lexical Search
-
-Constructu
 
 ```shell
 pip install sentence_transformers
