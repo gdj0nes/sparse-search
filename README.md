@@ -3,7 +3,7 @@
 ## Install
 
 ```shell
-pip install sparse-search
+pip install -e .
 ```
 
 ## Guide
